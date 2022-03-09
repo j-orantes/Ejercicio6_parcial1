@@ -19,7 +19,6 @@
 					radio = Console.ReadLine
 					Area(p, radio)
 				Case Else
-
 			End Select
 		End While
 
