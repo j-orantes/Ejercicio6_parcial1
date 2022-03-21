@@ -2,6 +2,7 @@
 
 	Sub Main()
 		Console.WriteLine("CALCULAR LA LONGITUD DE LA CIRCUNFERENCIA Y EL ÁREA DEL CÍRCULO DE RADIO DADO.")
+		console.write("Hola Jairo soy Luis y estoy probando cosas nuevas :v")
 		Console.WriteLine()
 		Dim radio As Decimal
 		Dim opcion As Integer = 0
